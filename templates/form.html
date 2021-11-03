@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Search Page</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+{% block body %}
+<form action="/profie_report" method ="/ShowProfile">
+  <button type="submit" name="Show Pandas Profile Report" value="Show Pandas Profile Report"> Show Pandas Profile Report </button>
+</form>
+<h2 style="text-align: left">Enter the details below to predict Label of activity from, 1: sit on bed, 2: sit on chair, 3: lying, 4: ambulating</h2>
+<form action="/data" method = "POST">
+    <p>frontal_axis_reading(g) <input type = "number" step="any" name = "frontal_axis_reading(g)" /></p>
+    <p>vertical_axis_reading(g) <input type = "number" step="any" name = "vertical_axis_reading(g)" /></p>
+    <p>lateral_axis_reading(g) <input type = "number" step="any" name = "lateral_axis_reading(g)" /></p>
+    <br/>
+  <button type="submit" name="Predict_Activity_using_SVC" value="Predict_Activity_using_SVC"> Predict_Activity_using_SVC </button>
+    <br/>
+    <br/>
+  <button type="submit" name="Predict_Activity_using_KNN" value="Predict_Activity_using_KNN"> Predict_Activity_using_KNN </button>
+    <br/>
+    <br/>
+  <button type="submit" name="Predict_Activity_using_Decision_Tree" value="Predict_Activity_using_Decision_Tree"> Predict_Activity_using_Decision_Tree </button>
+    <br/>
+    <br/>
+  <button type="submit" name="Predict_Activity_using_Random_Forest" value="Predict_Activity_using_Random_Forest"> Predict_Activity_using_Random_Forest </button>
+    <br/>
+    <br/>
+  <button type="submit" name="Predict_Activity_using_Stacking" value="Predict_Activity_using_Stacking"> Predict_Activity_using_Stacking </button>
+
+</form>
+{% endblock %}
