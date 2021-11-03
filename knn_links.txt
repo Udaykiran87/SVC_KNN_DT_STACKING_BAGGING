@@ -1,0 +1,4 @@
+http://theprofessionalspoint.blogspot.com/2019/02/advantages-and-disadvantages-of-knn.html
+https://machinelearningknowledge.ai/knn-classifier-in-sklearn-using-gridsearchcv-with-example/#iv_Exploratory_Data_Analysis
+https://neptune.ai/blog/knn-algorithm-explanation-opportunities-limitations
+https://www.mygreatlearning.com/blog/knn-algorithm-introduction/

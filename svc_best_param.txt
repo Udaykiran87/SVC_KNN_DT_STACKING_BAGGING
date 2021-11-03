@@ -1,0 +1,6 @@
+C=10, gamma=1, kernel=rbf .......................................
+[CV] ........... C=10, gamma=1, kernel=rbf, score=0.939, total=   7.7s
+
+
+[CV] C=100, gamma=1, kernel=rbf ......................................
+[CV] .......... C=100, gamma=1, kernel=rbf, score=0.942, total=  11.6s

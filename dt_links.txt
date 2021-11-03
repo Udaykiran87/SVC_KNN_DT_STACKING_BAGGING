@@ -1,0 +1,3 @@
+https://scikit-learn.org/stable/auto_examples/tree/plot_cost_complexity_pruning.html
+https://medium.com/analytics-vidhya/post-pruning-and-pre-pruning-in-decision-tree-561f3df73e65
+https://www.datatechnotes.com/2019/02/classification-with-sklearn-decision.html

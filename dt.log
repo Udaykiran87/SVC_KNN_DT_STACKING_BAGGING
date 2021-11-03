@@ -1,0 +1,18 @@
+2021-10-20 12:49:29,377:INFO:Human_activity_recognition_dt class object is created.
+2021-10-20 12:49:32,189:INFO:Dataset preparation started from the raw data.
+2021-10-20 12:49:32,190:ERROR:[WinError 3] The system cannot find the path specified: '../Datasets_Healthy_Older_People' occured while creating datasets from the raw data.
+2021-10-20 12:49:35,214:INFO:Dataset is getting loaded as pandas dataframe.
+2021-10-20 12:49:35,216:ERROR:File not found: exception occured while loading csv as pandas dataframe.
+2021-10-20 12:53:18,601:INFO:Human_activity_recognition_dt class object is created.
+2021-10-20 12:53:19,317:INFO:Dataset preparation started from the raw data.
+2021-10-20 12:53:19,317:ERROR:[WinError 3] The system cannot find the path specified: '../Datasets_Healthy_Older_People' occured while creating datasets from the raw data.
+2021-10-20 12:53:19,966:INFO:Dataset is getting loaded as pandas dataframe.
+2021-10-20 12:53:19,968:ERROR:File not found: exception occured while loading csv as pandas dataframe.
+2021-10-20 12:54:24,411:INFO:Human_activity_recognition_dt class object is created.
+2021-10-20 12:54:25,876:INFO:Dataset preparation started from the raw data.
+2021-10-20 12:54:25,877:ERROR:[WinError 3] The system cannot find the path specified: '../Datasets_Healthy_Older_People' occured while creating datasets from the raw data.
+2021-10-20 12:55:32,145:INFO:Human_activity_recognition_dt class object is created.
+2021-10-20 12:55:34,336:INFO:Dataset preparation started from the raw data.
+2021-10-20 12:55:34,337:ERROR:[WinError 3] The system cannot find the path specified: '../Datasets_Healthy_Older_People' occured while creating datasets from the raw data.
+2021-10-20 12:55:36,341:INFO:Dataset is getting loaded as pandas dataframe.
+2021-10-20 12:55:36,342:ERROR:File not found: exception occured while loading csv as pandas dataframe.

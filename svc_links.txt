@@ -1,0 +1,8 @@
+https://www.vebuso.com/2020/03/svm-hyperparameter-tuning-using-gridsearchcv/
+https://www.geeksforgeeks.org/svm-hyperparameter-tuning-using-gridsearchcv-ml/
+https://www.analyticsvidhya.com/blog/2021/06/support-vector-machine-better-understanding/
+https://jcheminf.biomedcentral.com/articles/10.1186/s13321-015-0088-0
+https://www.youtube.com/watch?v=fqhHBCfNy6s
+https://www.youtube.com/watch?v=vmE9ScCb2KY
+https://www.baeldung.com/cs/svm-feature-scaling
+https://towardsdatascience.com/4-machine-learning-techniques-for-outlier-detection-in-python-21e9cfacb81d
